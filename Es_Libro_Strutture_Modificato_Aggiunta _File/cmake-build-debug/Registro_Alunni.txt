@@ -1,0 +1,2 @@
+Riccardo;2005;maschio;7;7;7;
+Pollo;2005;donna;7;7;7;

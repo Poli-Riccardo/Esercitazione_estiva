@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.20)
+project(Es_Libro_Strutture_Modificato_Aggiunta__File)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(Es_Libro_Strutture_Modificato_Aggiunta__File main.cpp)

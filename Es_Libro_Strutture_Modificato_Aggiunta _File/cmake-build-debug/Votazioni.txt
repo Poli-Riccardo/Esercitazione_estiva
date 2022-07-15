@@ -1,0 +1,4 @@
+Gli alunni con il voto piu' alto sono: 
+Riccardo
+Pollo
+la media dei voti piu' elevata e' 7 ed e' della disciplina inglese 
